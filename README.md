@@ -37,21 +37,41 @@ This library is used to LCD 16x2
 ```
 ### Step Motor
 
-In order to control the openning the LCD 16x2 is used.
+In order to control the openning of the valve the step motor is used.
 
-![LCD](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/lcd.jpg)
+![LCD](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/step-motor.jpg)
 
-This library is used to LCD 16x2
+This library is used to STEP MOTOR
 
 ```C
-#include "lcd.h"
+#include <Stepper.h>
 ```
 <a name="item4"></a>
 ## Desing
 
+### Step Motor
+
+The valve is designed by means of a gear arrangement to be coupled to the motor
+
+![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/valve.PNG)
+
 
 <a name="item5"></a>
 ## Result
+
+Connections and Test results are seen below
+
+![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/final_programming.PNG)
+
+![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/Result1.jpg)
+
+![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/Result2.jpg)
+
+![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/Result3.jpg)
+
+![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/Result4.jpg)
+
+![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/Result5.jpg)
 
 
 <a name="item5"></a>
