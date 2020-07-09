@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Valve-Opening-Control
 
-![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/tree/master/images/Result6.jpg)
+![VALVE](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/Result6.jpg)
 
 <a name="item1"></a>
 ## Description
@@ -28,14 +28,24 @@ In this section, the programming of the Arduino is observed to calibrate the ste
 
 In order to visualize the interface the LCD 16x2 is used.
 
-![LCD](https://github.com/FreakJazz/Valve-Opening-Control/tree/master/images/lcd.jpg)
+![LCD](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/lcd.jpg)
 
 This library is used to LCD 16x2
 
 ```C
 #include "lcd.h"
 ```
+### Step Motor
 
+In order to control the openning the LCD 16x2 is used.
+
+![LCD](https://github.com/FreakJazz/Valve-Opening-Control/blob/master/images/lcd.jpg)
+
+This library is used to LCD 16x2
+
+```C
+#include "lcd.h"
+```
 <a name="item4"></a>
 ## Desing
 
